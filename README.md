@@ -12,5 +12,7 @@ Libraries: Ollama, base64, pymypdf, io, pytesseract.
 
 Thanks to ShawTalebi for amazing guide on YT.
 
+Now need to explore some like text , video and structured data.
+
 
 
